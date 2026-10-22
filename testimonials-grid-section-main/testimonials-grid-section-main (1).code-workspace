@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "testimonials-grid-section-main (1)",
+			"path": ".."
+		},
+		{
+			"name": "social-proof-section-master",
+			"path": "../../social-proof-section-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "testimonials-grid-section-main (1)"
+	}
+}
